@@ -67,7 +67,7 @@ Download and extract all PHP files in to the previously created PHP folder under
 <img src="https://i.imgur.com/EbyvS5F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download and install Microsoft Visual C++ and MYSQL. Ensure that MySQL is downloaded for a "Typical Setup" and Launch Configuration Wizard (after insall) is checked. Continue to install as Standard Configuration, select Install as a Windows service and add a password for MySQL (remember that login for later :smile:).
+Download and install Microsoft Visual C++ and MYSQL. Ensure that MySQL is downloaded for a "Typical Setup" and Launch Configuration Wizard (after install) is checked. Continue to install as Standard Configuration, select Install as a Windows service and add a password for MySQL .
 </p>
 <br />
 <h2>Open IIS as an Admin and Register PHP in IIS </h2>
